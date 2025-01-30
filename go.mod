@@ -1,4 +1,4 @@
-module elblivion/iam-roles-diff
+module github.com/elblivion/iam-roles-diff
 
 go 1.21.8
 
