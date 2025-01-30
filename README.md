@@ -23,5 +23,8 @@ There aren't any releases yet, but you can install locally with `go install`:
 ```
 export GOPATH=$HOME/go
 mkdir -p $GOPATH
+
 go install github.com/elblivion/iam-roles-diff@latest
+
+export PATH=$PATH:$GOPATH/bin
 ```
